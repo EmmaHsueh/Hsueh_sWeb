@@ -19,12 +19,12 @@
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root { 
-  --background-color: #1f1f1f; /* Background color for the entire website, including individual sections */
-  --default-color: #ffffff; /* Default color used for the majority of the text content across the entire website */
-  --heading-color: #ffffff; /* Color for headings, subheadings and title throughout the website */
-  --accent-color: #ececec; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
-  --surface-color: #232323; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
-  --contrast-color: #310606; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+  --background-color: #2c344e; /* Background color for the entire website, including individual sections */
+  --default-color: #E4EAFF; /* Default color used for the majority of the text content across the entire website */
+  --heading-color: #f5f6f9; /* Color for headings, subheadings and title throughout the website */
+  --accent-color: #E4EAFF; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --surface-color: #3f4b6f; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
+  --contrast-color: #3f4b6f; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 }
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
@@ -40,8 +40,8 @@
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
 
 .light-background {
-  --background-color: #2c2c2c;
-  --surface-color: #323232;
+  --background-color: #1f2949;
+  --surface-color: #3f4b6f;
 }
 
 /* Optional: apply matcha palette to any section in addition to .light-background */
@@ -153,8 +153,8 @@ h6 {
 # Global Header
 --------------------------------------------------------------*/
 .header {
-  --background-color: #1b1b1b;
-  --contrast-color: #444444;
+  --background-color: #1c2442;
+  --contrast-color: #354166;
   color: var(--default-color);
   position: fixed;
   top: 0;
@@ -676,7 +676,7 @@ section,
 }
 
 .hero .hero-actions .btn.btn-primary:hover {
-  background-color: color-mix(in srgb, var(--accent-color), black 10%);
+  background-color: color-mix(in srgb, var(--accent-color), #1a233f 10%);
   transform: translateY(-2px);
   box-shadow: 0 8px 25px color-mix(in srgb, var(--accent-color), transparent 70%);
 }
@@ -2202,7 +2202,7 @@ section,
   padding: 0.875rem 1.25rem;
   border-color: color-mix(in srgb, var(--default-color), transparent 90%);
   border-radius: 0.5rem;
-  background-color: color-mix(in srgb, var(--surface-color) 90%, white 5%);
+  background-color: color-mix(in srgb, var(--surface-color) 90%, #C8D5FF 5%);
   color: var(--default-color);
 }
 
