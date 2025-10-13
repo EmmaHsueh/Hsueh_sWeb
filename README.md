@@ -1,9 +1,4 @@
-
-HW1:[Personal Website](https://emmahsueh.github.io/Hsueh_sWeb/)
-
 # Introduction to the Internet  
-
-*****
 
 **HW1** : [Personal Website](https://emmahsueh.github.io/Hsueh_sWeb/)
 
