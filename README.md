@@ -9,9 +9,13 @@
 ### 1. 台北城市儀表板 API 呼叫展示
 
 ### 2. AI API 串接 
-**主題： 💫 天文小舖 Astronomy Shop**   
+**主題： 💫 天文小舖 Astronomy Shop** 
 
-**功能**：   
+![image](Image/天文小舖.png)
+
+**功能**： 
+![image](Image/天文小舖2.png)
+
 1.天文
 
   
