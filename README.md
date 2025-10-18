@@ -12,25 +12,29 @@ Develop students’ proficiency in front-end development, React framework usage,
 ******** 
 ## 📚 Project & Assignments
 
+**My personal website** -> [view website](https://emmahsueh.github.io/Hsueh_sWeb/ )    
+
 | Project Title | Description | Links |
 |----------------|--------------|--------|
-| ⚙️ Taipei City Dashboard & AI API Integration | A basic static webpage built using HTML and CSS to understand the structure of early websites. | [View Code](link-to-github) · [Live Demo](link-to-deployed-site) |
+| ⚙️ Taipei City Dashboard & AI API Integration | A basic static webpage built using HTML and CSS to understand the structure of early websites. | [View Code](AItest.tsx) · [Vedio Demo](https://www.youtube.com/watch?v=JaCVpCXk--Q) |
 | 🌐 Personal Web Integration: React & Public API Project | | [View Code](link-to-github) · Vedio Demo |
-| ☁️ HW4 Cloud Deployment |  | [View Code](link-to-github) · Vedio Demo |
+| ☁️ HW4 Cloud Deployment |  | View Code · Vedio Demo |
 
 
-### HW1 : [Personal Website](https://emmahsueh.github.io/Hsueh_sWeb/)   
 
-### HW2: 台北城市儀表板 API & AI API 串接 
+### HW2: Taipei City Dashboard & AI API Integration 
 **Vedio**: [解說影片](https://www.youtube.com/watch?v=JaCVpCXk--Q)   
 **修改內容**：[AItest.tsx](AItest.tsx)
 
-### 1. 台北城市儀表板 API 呼叫展示    
+### 1. Taipei City Dashboard    
  - [城市建設-行道樹](https://citydashboard.taipei/embed/110/taipei)
+   - curl "http://localhost:4000/api/v1/component/110/chart?city=taipei"
  - [氣候變遷-空氣品質](https://citydashboard.taipei/embed/174/taipei)
+   - curl "http://localhost:4000/api/v1/component/174/chart?city=taipei"
  - [為民服務-道路管制](https://citydashboard.taipei/embed/177/taipei)
+   - curl "http://localhost:4000/api/v1/component/177/chart?city=taipei"
 
-### 2. AI API 串接 
+### 2. AI API Integration 
 **主題： 💫 天文小舖 Astronomy Shop** 
 
 ![image](Image/天文小舖.png)
