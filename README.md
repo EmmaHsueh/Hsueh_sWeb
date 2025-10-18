@@ -12,6 +12,13 @@ Develop students’ proficiency in front-end development, React framework usage,
 ******** 
 ## 📚 Project & Assignments
 
+| Project Title | Description | Links |
+|----------------|--------------|--------|
+| ⚙️ Taipei City Dashboard & AI API Integration | A basic static webpage built using HTML and CSS to understand the structure of early websites. | [View Code](link-to-github) · [Live Demo](link-to-deployed-site) |
+| 🌐 Personal Web Integration: React & Public API Project | | [View Code](link-to-github) · Vedio Demo |
+| ☁️ HW4 Cloud Deployment |  | [View Code](link-to-github) · Vedio Demo |
+
+
 ### HW1 : [Personal Website](https://emmahsueh.github.io/Hsueh_sWeb/)   
 
 ### HW2: 台北城市儀表板 API & AI API 串接 
