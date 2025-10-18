@@ -1,5 +1,17 @@
 # Introduction to the Internet  
 
+## ✏️ Course Information    
+This Introduction to the Internet course focuses on understanding the evolution of the web — from Web 1.0 to Web 3.0 — through hands-on project development. Guided by practical exercises, students will learn to build, connect, and deploy modern web applications using HTML, CSS, and JavaScript within a React environment.
+
+### 🎯 Course Objectives   
+- **Hands-on Web Development:**
+Encourage students to actively create and experiment with web projects to understand how Internet technologies work in practice.  
+- **Technical Skill Building:**
+Develop students’ proficiency in front-end development, React framework usage, API integration, and cloud deployment.
+
+******** 
+## 📚 Project & Assignments
+
 ### HW1 : [Personal Website](https://emmahsueh.github.io/Hsueh_sWeb/)   
 
 ### HW2: 台北城市儀表板 API & AI API 串接 
