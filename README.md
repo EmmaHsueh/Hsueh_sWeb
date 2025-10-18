@@ -6,7 +6,10 @@
 **Vedio**: [解說影片](https://www.youtube.com/watch?v=JaCVpCXk--Q)   
 **修改內容**：[AItest.tsx](AItest.tsx)
 
-### 1. 台北城市儀表板 API 呼叫展示
+### 1. 台北城市儀表板 API 呼叫展示    
+ - [城市建設-行道樹](https://citydashboard.taipei/embed/110/taipei)
+ - [氣候變遷-空氣品質](https://citydashboard.taipei/embed/174/taipei)
+ - [為民服務-道路管制](https://citydashboard.taipei/embed/177/taipei)
 
 ### 2. AI API 串接 
 **主題： 💫 天文小舖 Astronomy Shop** 
