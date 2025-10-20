@@ -17,7 +17,7 @@ Develop students’ proficiency in front-end development, React framework usage,
 | Project Title | Description |   Links   |
 |----------------|--------------|---------------|
 | ⚙️ Taipei City Dashboard & AI API Integration | 1.Retrieves and visualizes data from three different Taipei City Dashboard APIs. 2.Connects to an AI API to generate dynamic responses, displaying the results interactively on the webpage. | [View Code](AItest.tsx) · [Vedio Demo](https://www.youtube.com/watch?v=JaCVpCXk--Q) |
-| 🌐 Personal Web Integration: React & Public API Project | | [View Code](link-to-github) · Vedio Demo |
+| 🌐 Personal Web Integration: React & Public API Project | | [View Code](link-to-github) · [Vedio Demo](https://youtu.be/X7BhsQ11RUc) |
 | ☁️ HW4 Cloud Deployment |  | View Code · Vedio Demo |
 
 
