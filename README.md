@@ -12,6 +12,8 @@ Develop students’ proficiency in front-end development, React framework usage,
 ******** 
 ## 📚 Project & Assignments
 
+**Final Project** -> [NTNU talk](https://github.com/EmmaHsueh/IntroduceToTheInternet_FinalProject.git)
+
 **My personal website** -> [view website](https://emmahsueh.github.io/Hsueh_sWeb/ )    
 
 | Project Title | Description|   Links   |   
