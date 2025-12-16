@@ -18,8 +18,8 @@ Develop students’ proficiency in front-end development, React framework usage,
 
 | Project Title | Description|   Links   |   
 |--------------|----------|--------------|
-| ⚙️ Taipei City Dashboard & AI API Integration | 1.Retrieves and visualizes data from three different Taipei City Dashboard APIs.2.Connects to an AI API to generate dynamic responses, displaying the results interactively on the webpage. | [View Code](AItest.tsx) · [Vedio Demo](https://www.youtube.com/watch?v=JaCVpCXk--Q) |
-| 🌐 Personal Web Integration: React & Public API Project | | [Github repo](https://github.com/EmmaHsueh/IntroduceToTheInternet_Astronomy-Shop) · [Vedio Demo](https://youtu.be/X7BhsQ11RUc) |
+| **HW2:** Taipei City Dashboard & AI API Integration | 1.Retrieves and visualizes data from three different Taipei City Dashboard APIs.2.Connects to an AI API to generate dynamic responses, displaying the results interactively on the webpage. | [View Code](AItest.tsx) · [Vedio Demo](https://www.youtube.com/watch?v=JaCVpCXk--Q) |
+| **HW3:** Personal Web Integration: React & Public API Project | | [Github repo](https://github.com/EmmaHsueh/IntroduceToTheInternet_Astronomy-Shop) · [Vedio Demo](https://youtu.be/X7BhsQ11RUc) |
 
 
 
